@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: "Qubt"
+  name: "Roran60"
   image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
+  greeting: "Hardwér - Softwér - Opensource"
   icon: ":wave:"
 
 ############################
@@ -13,12 +13,12 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/qubt
-  - facebook: https://github.com/chrede88/qubt
-  # - x-twitter:
+  # - github:
+  # - facebook:
+   - x-twitter: https://x.com/Roran60
   # - mastodon:
   # - linkedin: 
-  # - instagram:
+   - instagram: https://www.instagram.com/roran60
   # - reddit: 
   # - telegram: 
   # - whatsapp: 
@@ -28,17 +28,17 @@ links:
   # - email: 
   # - website:
   # - link: 
-  # - discord:
+   - discord: https://discord.gg/fkpa9e3
   # - orcid:
   # - slack:
   # - stack-overflow: 
-  # - twitch: 
+   - twitch: https://www.twitch.tv/roran60
   # - patreon: 
   # - soundcloud:
   # - dribbble: 
   # - stack-exchange: 
   # - tiktok: 
-  # - youtube:
+   - youtube: https://www.youtube.com/@roran60
   # - keybase: 
   # - flickr: 
   # - tumblr:
@@ -65,7 +65,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: "Roran60"
+description: "Hardwér - Softwér - Opensource"
 images:
   - thumbnail.jpeg

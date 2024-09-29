@@ -9,6 +9,6 @@ main:
 - name: Blog
   url: /blog/
   weight: 20
-- name: About
-  url: /about/
+- name: Search
+  url: https://search.roran60.com/
   weight: 30
