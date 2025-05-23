@@ -3,11 +3,11 @@
 ############################
 
 main:
-- name: Home
-  url: /
-  weight: 10
+#- name: Home
+#  url: /
+#  weight: 10
 - name: Blog
-  url: /blog/
+  url: https://blog.roran60.com/
   weight: 20
 - name: Search
   url: https://search.roran60.com/
